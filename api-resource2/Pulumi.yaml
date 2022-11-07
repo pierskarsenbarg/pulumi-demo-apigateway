@@ -1,0 +1,3 @@
+name: api-resource2
+description: A minimal AWS TypeScript Pulumi program
+runtime: nodejs
